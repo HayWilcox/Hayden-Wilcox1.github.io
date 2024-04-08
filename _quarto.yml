@@ -2,18 +2,18 @@ project:
   type: website
 
 website:
-  title: "Your_Name Data Science Portfolio"
+  title: Hayden Wilcox
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/your_url
+  repo-url: https://github.com/wiredhayden/Hayden-Wilcox1.github.io
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2023©"
+    left: Hayden Wilcox
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://www.linkedin.com/in/hayden-wilcox-6b3a161b6/
 
   navbar:
     background: primary
@@ -66,7 +66,7 @@ format:
   html:
     theme: #see this link to customize the theme with css (https://quarto.org/docs/output-formats/html-themes.html#dark-mode)
       light: flatly # more themes can be found [here](https://quarto.org/docs/output-formats/html-themes.html)
-      dark: darkly
+      dark: cosmo
       #light: cosmo
       #dark: [cosmo, theme-dark.scss]
     css: styles.css
