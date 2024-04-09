@@ -7,9 +7,9 @@ Data Science
 
 
 ### Professional Skills
-●	Python Programming Language (Including experience with Data Science programs such as Pandas, Plotly Express, and more).
-●	Beginners level data analysis using YouTube Analytics software.
-●	Proficient with Microsoft Office applications (Word, Excel, and PowerPoint).
+* Python Programming Language (Data Science emphasis - Pandas, Plotly Express, and more).
+* Basic YouTube Analytics Proficiency
+* Microsoft Office Proficiency (Word, Excel, and PowerPoint).
 
 
 
@@ -23,13 +23,13 @@ September 2021 - Present
 Church of Jesus Christ of Latter-day Saints | Quito, Ecuador
 Missionary Volunteer
 December 2017 - December 2019
-•	Lead other missionaries to be able to work together as a team and teach lessons to others.
-•	Became fluent in ability to speak, read, and write in the Spanish language.
+* Lead other missionaries to be able to work together as a team and teach lessons to others.
+* Became fluent in ability to speak, read, and write in the Spanish language.
 
 ### Projects
 
 Wilford Woodruff Papers
-●	Helped work on Data Science project analyzing old names and records
+- Data Science Project assisting in analyzing old names and records
 
 
 
